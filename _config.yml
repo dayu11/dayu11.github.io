@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site under development!"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Da Yu"
 description              : &description "Ph.D. candidate at Sun Yat-sen University"
@@ -83,7 +83,7 @@ author:
   name             : "Da Yu"
   avatar           : "headshot.jpg"
   bio              : "Ph.D. candidate, Sun Yat-sen University"
-  location         : "Redmond, USA"
+  location         : "Redmond, WA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=FcRGdiwAAAAJ"
