@@ -17,15 +17,15 @@ Publications
 ======
 
 [Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617)<br>
-Da Yu, Gautam Kamath*, Janardhan Kulkarni*, Tie-Yan Liu*, Jian Yin*, Huishuai Zhang*<br>
+Da Yu, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
 Transactions on Machine Learning Research (TMLR), 2023
     
 [Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping](https://openreview.net/forum?id=oze0clVGPeX)<br>
-Jiyan He*, Xuechen Li*, Da Yu*, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian<br>
+Jiyan He\*, Xuechen Li\*, Da Yu\*, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian<br>
 International Conference on Learning Representations (ICLR), 2023
 
 [Differentially Private Fine-tuning of Language Models](https://openreview.net/pdf?id=Q42f0dfjECO), [[code]](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models)<br>
-Da Yu, Saurabh Naik, Arturs Backurs*, Sivakanth Gopi*, Huseyin A. Inan*, Gautam Kamath*, Janardhan Kulkarni*, Yin Tat Lee*, Andre Manoel*, Lukas Wutschitz*, Sergey Yekhanin*, Huishuai Zhang*<br>
+Da Yu, Saurabh Naik, Arturs Backurs\*, Sivakanth Gopi\*, Huseyin A. Inan\*, Gautam Kamath\*, Janardhan Kulkarni\*, Yin Tat Lee\*, Andre Manoel\*, Lukas Wutschitz\*, Sergey Yekhanin\*, Huishuai Zhang\*<br>
 International Conference on Learning Representations (ICLR), 2022
 
 [Large Scale Private Learning via Low-rank Reparametrization](https://arxiv.org/abs/2106.09352), [[code]](https://github.com/dayu11/Differentially-Private-Deep-Learning)<br>
@@ -33,7 +33,7 @@ Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 International Conference on Machine Learning (ICML), 2021
 
 [Do not Let Privacy Overbill Utility: Gradient Embedding Perturbation for Private Learning](https://arxiv.org/abs/2102.12677), [[code]](https://github.com/dayu11/Differentially-Private-Deep-Learning/tree/main/vision/GEP)<br>
-Da Yu*, Huishuai Zhang*, Wei Chen, Tie-Yan Liu<br>
+Da Yu\*, Huishuai Zhang\*, Wei Chen, Tie-Yan Liu<br>
 International Conference on Learning Representations (ICLR), 2021
 
 [Availability Attacks Create Shortcuts](https://arxiv.org/abs/2111.00898), [[code]](https://github.com/dayu11/Availability-Attacks-Create-Shortcuts)<br>
