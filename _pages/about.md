@@ -13,7 +13,7 @@ I am a member of the joint Ph.D. program between [Sun Yat-sen University](https:
 Currently, I am a research intern at the [Algorithms Group, MSR Redmond](https://www.microsoft.com/en-us/research/group/algorithms-redmond/people/), and I am fortunate to be hosted by [Janardhan Kulkarni](https://www.microsoft.com/en-us/research/people/jakul/). I spent three wonderful years as a research intern at Microsoft Research Asia, where I was fortunate to be hosted by [Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/). I received my B.S. degree in Computer Science from Sun Yat-sen University in 2019. My research is supported by [Microsoft Research Asia Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/).
 
 
-Selected Publications
+Publications
 ======
 
 [Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617)<br>
@@ -36,16 +36,34 @@ International Conference on Machine Learning (ICML), 2021
 Da Yu*, Huishuai Zhang*, Wei Chen, Tie-Yan Liu<br>
 International Conference on Learning Representations (ICLR), 2021
 
-
 [Availability Attacks Create Shortcuts](https://arxiv.org/abs/2111.00898), [[code]](https://github.com/dayu11/Availability-Attacks-Create-Shortcuts)<br>
 Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 SIGKDD Conference on Knowledge Discovery and Data Mining, Research Track (KDD), 2022
-
 
 [How Does Data Augmentation Affect Privacy in Machine Learning?](https://arxiv.org/abs/2007.10567), [[code]](https://github.com/dayu11/MI_with_DA)<br>
 Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 AAAI Conference on Artificial Intelligence (AAAI), 2021
 
+[Stabilize Deep ResNet with A Sharp Scaling Factor $\tau$](https://arxiv.org/abs/1903.07120), [[code]](https://github.com/dayu11/tau-ResNet)<br>
+Huishuai Zhang, Da Yu, Mingyang Yi, Wei Chen, Tie-Yan Liu<br> 
+Machine Learning, 2022
 
 
+[Gradient Perturbation is Underrated for Differentially Private Convex Optimization](https://arxiv.org/abs/1911.11363)<br>
+Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
+International Joint Conference on Artificial Intelligence (IJCAI), 2020
+
+Manuscripts
+======
+[Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865)<br>
+Da Yu, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
+Preprint, 2023
+
+[Challenges towards the Next Frontier in Privacy](https://arxiv.org/abs/2304.06929)<br>
+Rachel Cummings, Damien Desfontaines, David Evans, Roxana Geambasu, Matthew Jagielski, Yangsibo Huang, Peter Kairouz, Gautam Kamath, Sewoong Oh, Olga Ohrimenko, Nicolas Papernot, Ryan Rogers, Milan Shen, Shuang Song, Weijie Su, Andreas Terzis, Abhradeep Thakurta, Sergei Vassilvitskii, Yu-Xiang Wang, Li Xiong, Sergey Yekhanin, Da Yu, Huanyu Zhang, Wanrong Zhang<br>
+Preprint, 2023
+
+Academic Service
+======
+I am a reviewer for ICML 2022/2023, NeurIPS 2022/2023, and ICLR 2022/2023. I'm a top reviewer of [ICML 2022](https://icml.cc/Conferences/2022/Reviewers) and [NeurIPS 2022](https://nips.cc/Conferences/2022/ProgramCommittee).
 
