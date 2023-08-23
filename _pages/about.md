@@ -24,7 +24,7 @@ Transactions on Machine Learning Research (TMLR), 2023
 Jiyan He\*, Xuechen Li\*, **Da Yu**\*, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian<br>
 International Conference on Learning Representations (ICLR), 2023
 
-[Differentially Private Fine-tuning of Language Models](https://openreview.net/pdf?id=Q42f0dfjECO), [[code]](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models)<br>
+[Differentially Private Fine-tuning of Language Models](https://arxiv.org/abs/2110.06500), [[code]](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models)<br>
 **Da Yu**, Saurabh Naik, Arturs Backurs\*, Sivakanth Gopi\*, Huseyin A. Inan\*, Gautam Kamath\*, Janardhan Kulkarni\*, Yin Tat Lee\*, Andre Manoel\*, Lukas Wutschitz\*, Sergey Yekhanin\*, Huishuai Zhang\*<br>
 International Conference on Learning Representations (ICLR), 2022
 
