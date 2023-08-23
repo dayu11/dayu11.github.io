@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a member of the joint Ph.D. program between [Sun Yat-sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) and [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I am fortunate to be advised by Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3) and Prof. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). My research interests encompass 1) Privacy-preserving machine learning, particularly deep learning with differential privacy, and 2) Memorization mechanisms within large-scale models. 
+My research interests encompass 1) Privacy-preserving machine learning, particularly deep learning with differential privacy, and 2) Memorization mechanisms within large-scale models. 
+
+I am a member of the joint Ph.D. program between [Sun Yat-sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) and [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I am fortunate to be advised by Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3) and Prof. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). 
 
 Currently, I am a research intern at the [Algorithms Group, MSR Redmond](https://www.microsoft.com/en-us/research/group/algorithms-redmond/people/), and I am fortunate to be hosted by [Janardhan Kulkarni](https://www.microsoft.com/en-us/research/people/jakul/). I spent three wonderful years as a research intern at Microsoft Research Asia, where I was fortunate to be hosted by [Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/). I received my B.S. degree in Computer Science from Sun Yat-sen University in 2019. My research is supported by [Microsoft Research Asia Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/).
 
