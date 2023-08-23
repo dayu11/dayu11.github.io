@@ -17,50 +17,50 @@ Publications
 ======
 
 [Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617)<br>
-Da Yu, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
+**Da Yu**, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
 Transactions on Machine Learning Research (TMLR), 2023
     
 [Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping](https://openreview.net/forum?id=oze0clVGPeX)<br>
-Jiyan He\*, Xuechen Li\*, Da Yu\*, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian<br>
+Jiyan He\*, Xuechen Li\*, **Da Yu**\*, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian<br>
 International Conference on Learning Representations (ICLR), 2023
 
 [Differentially Private Fine-tuning of Language Models](https://openreview.net/pdf?id=Q42f0dfjECO), [[code]](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models)<br>
-Da Yu, Saurabh Naik, Arturs Backurs\*, Sivakanth Gopi\*, Huseyin A. Inan\*, Gautam Kamath\*, Janardhan Kulkarni\*, Yin Tat Lee\*, Andre Manoel\*, Lukas Wutschitz\*, Sergey Yekhanin\*, Huishuai Zhang\*<br>
+**Da Yu**, Saurabh Naik, Arturs Backurs\*, Sivakanth Gopi\*, Huseyin A. Inan\*, Gautam Kamath\*, Janardhan Kulkarni\*, Yin Tat Lee\*, Andre Manoel\*, Lukas Wutschitz\*, Sergey Yekhanin\*, Huishuai Zhang\*<br>
 International Conference on Learning Representations (ICLR), 2022
 
 [Large Scale Private Learning via Low-rank Reparametrization](https://arxiv.org/abs/2106.09352), [[code]](https://github.com/dayu11/Differentially-Private-Deep-Learning)<br>
-Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
+**Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 International Conference on Machine Learning (ICML), 2021
 
 [Do not Let Privacy Overbill Utility: Gradient Embedding Perturbation for Private Learning](https://arxiv.org/abs/2102.12677), [[code]](https://github.com/dayu11/Differentially-Private-Deep-Learning/tree/main/vision/GEP)<br>
-Da Yu\*, Huishuai Zhang\*, Wei Chen, Tie-Yan Liu<br>
+**Da Yu**\*, Huishuai Zhang\*, Wei Chen, Tie-Yan Liu<br>
 International Conference on Learning Representations (ICLR), 2021
 
 [Availability Attacks Create Shortcuts](https://arxiv.org/abs/2111.00898), [[code]](https://github.com/dayu11/Availability-Attacks-Create-Shortcuts)<br>
-Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
+**Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 SIGKDD Conference on Knowledge Discovery and Data Mining, Research Track (KDD), 2022
 
 [How Does Data Augmentation Affect Privacy in Machine Learning?](https://arxiv.org/abs/2007.10567), [[code]](https://github.com/dayu11/MI_with_DA)<br>
-Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
+**Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 AAAI Conference on Artificial Intelligence (AAAI), 2021
 
 [Stabilize Deep ResNet with A Sharp Scaling Factor $\tau$](https://arxiv.org/abs/1903.07120), [[code]](https://github.com/dayu11/tau-ResNet)<br>
-Huishuai Zhang, Da Yu, Mingyang Yi, Wei Chen, Tie-Yan Liu<br> 
+Huishuai Zhang, **Da Yu**, Mingyang Yi, Wei Chen, Tie-Yan Liu<br> 
 Machine Learning, 2022
 
 
 [Gradient Perturbation is Underrated for Differentially Private Convex Optimization](https://arxiv.org/abs/1911.11363)<br>
-Da Yu, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
+**Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 International Joint Conference on Artificial Intelligence (IJCAI), 2020
 
 Manuscripts
 ======
 [Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865)<br>
-Da Yu, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
+**Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
 Preprint, 2023
 
 [Challenges towards the Next Frontier in Privacy](https://arxiv.org/abs/2304.06929)<br>
-Rachel Cummings, Damien Desfontaines, David Evans, Roxana Geambasu, Matthew Jagielski, Yangsibo Huang, Peter Kairouz, Gautam Kamath, Sewoong Oh, Olga Ohrimenko, Nicolas Papernot, Ryan Rogers, Milan Shen, Shuang Song, Weijie Su, Andreas Terzis, Abhradeep Thakurta, Sergei Vassilvitskii, Yu-Xiang Wang, Li Xiong, Sergey Yekhanin, Da Yu, Huanyu Zhang, Wanrong Zhang<br>
+Rachel Cummings, Damien Desfontaines, David Evans, Roxana Geambasu, Matthew Jagielski, Yangsibo Huang, Peter Kairouz, Gautam Kamath, Sewoong Oh, Olga Ohrimenko, Nicolas Papernot, Ryan Rogers, Milan Shen, Shuang Song, Weijie Su, Andreas Terzis, Abhradeep Thakurta, Sergei Vassilvitskii, Yu-Xiang Wang, Li Xiong, Sergey Yekhanin, **Da Yu**, Huanyu Zhang, Wanrong Zhang<br>
 Preprint, 2023
 
 Academic Service
