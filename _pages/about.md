@@ -26,8 +26,8 @@ Publications
 **Da Yu**, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
 Transactions on Machine Learning Research (TMLR), 2023
     
-[Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping](https://openreview.net/forum?id=oze0clVGPeX)<br>
-Jiyan He, Xuechen Li, **Da Yu**, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian<br>
+[Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping](https://openreview.net/pdf?id=oze0clVGPeX)<br>
+Jiyan He\*, Xuechen Li\*, **Da Yu**\*, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian<br>
 International Conference on Learning Representations (ICLR), 2023
 
 [Differentially Private Fine-tuning of Language Models](https://arxiv.org/abs/2110.06500), [[code]](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models)<br>
