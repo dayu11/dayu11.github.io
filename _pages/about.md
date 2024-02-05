@@ -71,5 +71,5 @@ Preprint, 2023
 
 Academic Service
 ======
-I am a reviewer for ICML 2022/2023, NeurIPS 2022/2023, and ICLR 2022/2023. I'm a top reviewer of [ICML 2022](https://icml.cc/Conferences/2022/Reviewers) and [NeurIPS 2022](https://nips.cc/Conferences/2022/ProgramCommittee).
+I am a reviewer for ICML 2022-2024, NeurIPS 2022-2023, and ICLR 2022-2024. I'm awarded as a top reviewer for several times.
 
