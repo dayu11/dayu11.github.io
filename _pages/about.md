@@ -61,6 +61,11 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2020
 
 Manuscripts
 ======
+[Privacy-Preserving Instructions for Aligning Large Language Models](https://www.researchgate.net/profile/Da-Yu-14/publication/378342349_Privacy-Preserving_Instructions_for_Aligning_Large_Language_Models/links/65d5ac58c3b52a1170e98f84/Privacy-Preserving-Instructions-for-Aligning-Large-Language-Models.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)<br>
+**Da Yu**, Peter Kairouz\*, Sewoong Oh\*, Zheng Xu\*<br>
+Preprint, 2024
+
+
 [Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865)<br>
 **Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
 Preprint, 2023
