@@ -61,7 +61,7 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2020
 
 Manuscripts
 ======
-[Privacy-Preserving Instructions for Aligning Large Language Models](https://www.researchgate.net/profile/Da-Yu-14/publication/378342349_Privacy-Preserving_Instructions_for_Aligning_Large_Language_Models/links/65d5ac58c3b52a1170e98f84/Privacy-Preserving-Instructions-for-Aligning-Large-Language-Models.pdf?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InB1YmxpY2F0aW9uIn19)<br>
+[Privacy-Preserving Instructions for Aligning Large Language Models](https://www.researchgate.net/profile/Da-Yu-14/publication/378342349_Privacy-Preserving_Instructions_for_Aligning_Large_Language_Models/links/65d5ac58c3b52a1170e98f84/Privacy-Preserving-Instructions-for-Aligning-Large-Language-Models.pdf?origin=publicationDetail&_sg%5B0%5D=6I1UP0lbEZgD11-OsA3ZWRY2aUELeXc4HrJoGKH68rd56ratNPpSA3Fg1PuU5gjPQ1qHuHYcTMpmKxOEYlBKHw.TENmYhbtwg6BuU0NmCerMQEfuLWOSnTvfhGP4EeE-it11Be9koVjIlwYUirjlICE7FpvGxZpRpO-RFpaBLmX_w&_sg%5B1%5D=7p4sn51pEJhjd9Mx7TCu0p7chzO_2PxNrgxDEvs73Elun4GFufRlbLq7J0Ya9SwRtSUYGCacRCsuhGAEVYWpZopxszF7I_4rAxCwa1v6WA40.TENmYhbtwg6BuU0NmCerMQEfuLWOSnTvfhGP4EeE-it11Be9koVjIlwYUirjlICE7FpvGxZpRpO-RFpaBLmX_w&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicHJldmlvdXNQYWdlIjoicHJvZmlsZSIsInBvc2l0aW9uIjoicGFnZUhlYWRlciJ9fQ)<br>
 **Da Yu**, Peter Kairouz\*, Sewoong Oh\*, Zheng Xu\*<br>
 Preprint, 2024
 
