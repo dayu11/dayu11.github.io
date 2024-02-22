@@ -61,7 +61,7 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2020
 
 Manuscripts
 ======
-[Privacy-Preserving Instructions for Aligning Large Language Models](https://www.researchgate.net/publication/378342349_Privacy-Preserving_Instructions_for_Aligning_Large_Language_Models)<br>
+[Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)<br>
 **Da Yu**, Peter Kairouz\*, Sewoong Oh\*, Zheng Xu\*<br>
 Preprint, 2024
 
