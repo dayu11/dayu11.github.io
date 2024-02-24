@@ -24,7 +24,7 @@ Publications
 
 *\* denotes alphabetical order.*
 
-[Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617)<br>
+[Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617), [[code]](https://github.com/dayu11/individual_privacy_of_DPSGD)<br>
 **Da Yu**, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
 Transactions on Machine Learning Research (TMLR), 2023
     
@@ -68,7 +68,7 @@ Manuscripts
 Preprint, 2024
 
 
-[Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865)<br>
+[Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865), [[code]](https://github.com/dayu11/selective_pretraining_for_private_finetuning)<br>
 **Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
 Preprint, 2023
 
