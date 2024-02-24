@@ -22,6 +22,8 @@ Here is the [link to my resume](https://drive.google.com/file/d/1wUojmDtDDQYA2iB
 Publications
 ======
 
+*\* denotes alphabetical order.*
+
 [Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617)<br>
 **Da Yu**, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
 Transactions on Machine Learning Research (TMLR), 2023
