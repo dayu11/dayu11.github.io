@@ -24,6 +24,10 @@ Publications
 
 *\* denotes alphabetical order.*
 
+[Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)<br>
+**Da Yu**, Peter Kairouz\*, Sewoong Oh\*, Zheng Xu\*<br>
+International Conference on Machine Learning (ICML), 2024
+
 [Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617), [[code]](https://github.com/dayu11/individual_privacy_of_DPSGD)<br>
 **Da Yu**, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
 Transactions on Machine Learning Research (TMLR), 2023
@@ -63,10 +67,6 @@ International Joint Conference on Artificial Intelligence (IJCAI), 2020
 
 Manuscripts
 ======
-[Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)<br>
-**Da Yu**, Peter Kairouz\*, Sewoong Oh\*, Zheng Xu\*<br>
-Preprint, 2024
-
 
 [Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865), [[code]](https://github.com/dayu11/selective_pretraining_for_private_finetuning)<br>
 **Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
