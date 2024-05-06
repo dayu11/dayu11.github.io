@@ -28,6 +28,11 @@ Publications
 **Da Yu**, Peter Kairouz\*, Sewoong Oh\*, Zheng Xu\*<br>
 International Conference on Machine Learning (ICML), 2024
 
+[Differentially Private Synthetic Data via Foundation Model APIs 2: Text](https://arxiv.org/abs/2403.01749)<br>
+Chulin Xie, Zinan Lin, Arturs Backurs, Sivakanth Gopi, **Da Yu**, Huseyin A Inan, Harsha Nori, Haotian Jiang, Huishuai Zhang, Yin Tat Lee, Bo Li, and Sergey Yekhanin<br>
+International Conference on Machine Learning (ICML), 2024
+
+
 [Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617), [[code]](https://github.com/dayu11/individual_privacy_of_DPSGD)<br>
 **Da Yu**, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
 Transactions on Machine Learning Research (TMLR), 2023
