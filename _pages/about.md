@@ -26,40 +26,44 @@ Publications
 
 [Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)<br>
 **Da Yu**, Peter Kairouz\*, Sewoong Oh\*, Zheng Xu\*<br>
-International Conference on Machine Learning (ICML), 2024
+ICML, 2024
 
 [Differentially Private Synthetic Data via Foundation Model APIs 2: Text](https://arxiv.org/abs/2403.01749)<br>
 Chulin Xie, Zinan Lin, Arturs Backurs, Sivakanth Gopi, **Da Yu**, Huseyin A Inan, Harsha Nori, Haotian Jiang, Huishuai Zhang, Yin Tat Lee, Bo Li, and Sergey Yekhanin<br>
-International Conference on Machine Learning (ICML), 2024
+ICML, 2024
 
+
+[Training Private and Efficient Language Models with Synthetic Data from LLMs](https://openreview.net/forum?id=FKwtKzglFb)<br>
+**Da Yu**, Arturs Backurs, Sivakanth Gopi, Huseyin Inan, Janardhan Kulkarni, Zinan Lin, Chulin Xie, Huishuai Zhang, Wanrong Zhang<br>
+NeurIPS 2023 SoLaR Workshop
 
 [Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617), [[code]](https://github.com/dayu11/individual_privacy_of_DPSGD)<br>
 **Da Yu**, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
-Transactions on Machine Learning Research (TMLR), 2023
+TMLR, 2023
     
 [Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping](https://openreview.net/pdf?id=oze0clVGPeX)<br>
 Jiyan He\*, Xuechen Li\*, **Da Yu**\*, Huishuai Zhang, Janardhan Kulkarni, Yin Tat Lee, Arturs Backurs, Nenghai Yu, Jiang Bian<br>
-International Conference on Learning Representations (ICLR), 2023
+ICLR, 2023
 
 [Differentially Private Fine-tuning of Language Models](https://arxiv.org/abs/2110.06500), [[code]](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models)<br>
 **Da Yu**, Saurabh Naik, Arturs Backurs\*, Sivakanth Gopi\*, Huseyin A. Inan\*, Gautam Kamath\*, Janardhan Kulkarni\*, Yin Tat Lee\*, Andre Manoel\*, Lukas Wutschitz\*, Sergey Yekhanin\*, Huishuai Zhang\*<br>
-International Conference on Learning Representations (ICLR), 2022
+ICLR, 2022
 
 [Large Scale Private Learning via Low-rank Reparametrization](https://arxiv.org/abs/2106.09352), [[code]](https://github.com/dayu11/Differentially-Private-Deep-Learning)<br>
 **Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
-International Conference on Machine Learning (ICML), 2021
+ICML, 2021
 
 [Do not Let Privacy Overbill Utility: Gradient Embedding Perturbation for Private Learning](https://arxiv.org/abs/2102.12677), [[code]](https://github.com/dayu11/Differentially-Private-Deep-Learning/tree/main/vision/GEP)<br>
 **Da Yu**\*, Huishuai Zhang\*, Wei Chen, Tie-Yan Liu<br>
-International Conference on Learning Representations (ICLR), 2021
+ICLR, 2021
 
 [Availability Attacks Create Shortcuts](https://arxiv.org/abs/2111.00898), [[code]](https://github.com/dayu11/Availability-Attacks-Create-Shortcuts)<br>
 **Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
-SIGKDD Conference on Knowledge Discovery and Data Mining, Research Track (KDD), 2022
+KDD, Research Track, 2022
 
 [How Does Data Augmentation Affect Privacy in Machine Learning?](https://arxiv.org/abs/2007.10567), [[code]](https://github.com/dayu11/MI_with_DA)<br>
 **Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
-AAAI Conference on Artificial Intelligence (AAAI), 2021
+AAAI, 2021
 
 [Stabilize Deep ResNet with A Sharp Scaling Factor $\tau$](https://arxiv.org/abs/1903.07120), [[code]](https://github.com/dayu11/tau-ResNet)<br>
 Huishuai Zhang, **Da Yu**, Mingyang Yi, Wei Chen, Tie-Yan Liu<br> 
@@ -68,7 +72,7 @@ Machine Learning, 2022
 
 [Gradient Perturbation is Underrated for Differentially Private Convex Optimization](https://arxiv.org/abs/1911.11363)<br>
 **Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
-International Joint Conference on Artificial Intelligence (IJCAI), 2020
+IJCAI, 2020
 
 Manuscripts
 ======
