@@ -71,7 +71,7 @@ Machine Learning, 2022
 
 
 [Gradient Perturbation is Underrated for Differentially Private Convex Optimization](https://arxiv.org/abs/1911.11363)<br>
-**Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
+**Da Yu**\*, Huishuai Zhang\*, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 IJCAI, 2020
 
 Manuscripts
