@@ -22,10 +22,10 @@ Here is the [link to my resume](https://drive.google.com/file/d/1wUojmDtDDQYA2iB
 Publications
 ======
 
-*\* denotes alphabetical order.*
+*\* denotes equal contribution.*
 
 [Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)<br>
-**Da Yu**, Peter Kairouz\*, Sewoong Oh\*, Zheng Xu\*<br>
+**Da Yu**, Peter Kairouz, Sewoong Oh, Zheng Xu<br>
 ICML, 2024
 
 [Differentially Private Synthetic Data via Foundation Model APIs 2: Text](https://arxiv.org/abs/2403.01749)<br>
@@ -38,7 +38,7 @@ ICML, 2024
 NeurIPS 2023 SoLaR Workshop
 
 [Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617), [[code]](https://github.com/dayu11/individual_privacy_of_DPSGD)<br>
-**Da Yu**, Gautam Kamath\*, Janardhan Kulkarni\*, Tie-Yan Liu\*, Jian Yin\*, Huishuai Zhang\*<br>
+**Da Yu**, Gautam Kamath, Janardhan Kulkarni, Tie-Yan Liu, Jian Yin, Huishuai Zhang<br>
 TMLR, 2023
     
 [Exploring the Limits of Differentially Private Deep Learning with Group-wise Clipping](https://openreview.net/pdf?id=oze0clVGPeX)<br>
@@ -46,7 +46,7 @@ Jiyan He\*, Xuechen Li\*, **Da Yu**\*, Huishuai Zhang, Janardhan Kulkarni, Yin T
 ICLR, 2023
 
 [Differentially Private Fine-tuning of Language Models](https://arxiv.org/abs/2110.06500), [[code]](https://github.com/huseyinatahaninan/Differentially-Private-Fine-tuning-of-Language-Models)<br>
-**Da Yu**, Saurabh Naik, Arturs Backurs\*, Sivakanth Gopi\*, Huseyin A. Inan\*, Gautam Kamath\*, Janardhan Kulkarni\*, Yin Tat Lee\*, Andre Manoel\*, Lukas Wutschitz\*, Sergey Yekhanin\*, Huishuai Zhang\*<br>
+**Da Yu**, Saurabh Naik, Arturs Backurs, Sivakanth Gopi, Huseyin A. Inan, Gautam Kamath, Janardhan Kulkarni, Yin Tat Lee, Andre Manoel, Lukas Wutschitz, Sergey Yekhanin, Huishuai Zhang<br>
 ICLR, 2022
 
 [Large Scale Private Learning via Low-rank Reparametrization](https://arxiv.org/abs/2106.09352), [[code]](https://github.com/dayu11/Differentially-Private-Deep-Learning)<br>
