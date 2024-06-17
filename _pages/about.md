@@ -27,7 +27,7 @@ ICML, 2024
 
 [Differentially Private Synthetic Data via Foundation Model APIs 2: Text](https://arxiv.org/abs/2403.01749)<br>
 Chulin Xie, Zinan Lin, Arturs Backurs, Sivakanth Gopi, **Da Yu**, Huseyin A Inan, Harsha Nori, Haotian Jiang, Huishuai Zhang, Yin Tat Lee, Bo Li, and Sergey Yekhanin<br>
-ICML, 2024
+ICML, 2024 (**Spotlight**)
 
 
 [Training Private and Efficient Language Models with Synthetic Data from LLMs](https://openreview.net/forum?id=FKwtKzglFb)<br>
