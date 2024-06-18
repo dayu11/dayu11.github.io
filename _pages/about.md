@@ -21,6 +21,10 @@ Publications
 
 *\* denotes equal contribution.*
 
+[Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865), [[code]](https://github.com/dayu11/selective_pretraining_for_private_finetuning)<br>
+**Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
+TMLR, 2024
+
 [Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)<br>
 **Da Yu**, Peter Kairouz, Sewoong Oh, Zheng Xu<br>
 ICML, 2024
@@ -29,6 +33,9 @@ ICML, 2024
 Chulin Xie, Zinan Lin, Arturs Backurs, Sivakanth Gopi, **Da Yu**, Huseyin A Inan, Harsha Nori, Haotian Jiang, Huishuai Zhang, Yin Tat Lee, Bo Li, and Sergey Yekhanin<br>
 ICML, 2024 (**Spotlight**)
 
+[Challenges towards the Next Frontier in Privacy](https://arxiv.org/abs/2304.06929)<br>
+Rachel Cummings, Damien Desfontaines, David Evans, Roxana Geambasu, Matthew Jagielski, Yangsibo Huang, Peter Kairouz, Gautam Kamath, Sewoong Oh, Olga Ohrimenko, Nicolas Papernot, Ryan Rogers, Milan Shen, Shuang Song, Weijie Su, Andreas Terzis, Abhradeep Thakurta, Sergei Vassilvitskii, Yu-Xiang Wang, Li Xiong, Sergey Yekhanin, **Da Yu**, Huanyu Zhang, Wanrong Zhang<br>
+Harvard Data Science Review, 2024
 
 [Training Private and Efficient Language Models with Synthetic Data from LLMs](https://openreview.net/forum?id=FKwtKzglFb)<br>
 **Da Yu**, Arturs Backurs, Sivakanth Gopi, Huseyin Inan, Janardhan Kulkarni, Zinan Lin, Chulin Xie, Huishuai Zhang, Wanrong Zhang<br>
@@ -74,15 +81,9 @@ IJCAI, 2020
 Manuscripts
 ======
 
-[Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865), [[code]](https://github.com/dayu11/selective_pretraining_for_private_finetuning)<br>
-**Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
-Preprint, 2023
 
-[Challenges towards the Next Frontier in Privacy](https://arxiv.org/abs/2304.06929)<br>
-Rachel Cummings, Damien Desfontaines, David Evans, Roxana Geambasu, Matthew Jagielski, Yangsibo Huang, Peter Kairouz, Gautam Kamath, Sewoong Oh, Olga Ohrimenko, Nicolas Papernot, Ryan Rogers, Milan Shen, Shuang Song, Weijie Su, Andreas Terzis, Abhradeep Thakurta, Sergei Vassilvitskii, Yu-Xiang Wang, Li Xiong, Sergey Yekhanin, **Da Yu**, Huanyu Zhang, Wanrong Zhang<br>
-Preprint, 2023
 
 Academic Service
 ======
-I am a reviewer for ICML 2022-2024, NeurIPS 2022-2023, and ICLR 2022-2024. I'm awarded as a top reviewer for several times.
+I am a reviewer for ICML 2022-2024, NeurIPS 2022-2024, and ICLR 2023-2024. I'm awarded as a top reviewer for several times.
 
