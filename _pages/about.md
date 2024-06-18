@@ -16,7 +16,7 @@ I am a member of the joint Ph.D. program between [Sun Yat-sen University](https:
 
 
 
-Publications
+Selected Publications
 ======
 
 *\* denotes equal contribution.*
@@ -32,14 +32,6 @@ ICML, 2024
 [Differentially Private Synthetic Data via Foundation Model APIs 2: Text](https://arxiv.org/abs/2403.01749), [[code]](https://github.com/AI-secure/aug-pe)<br>
 Chulin Xie, Zinan Lin, Arturs Backurs, Sivakanth Gopi, **Da Yu**, Huseyin A Inan, Harsha Nori, Haotian Jiang, Huishuai Zhang, Yin Tat Lee, Bo Li, and Sergey Yekhanin<br>
 ICML, 2024 (**Spotlight**)
-
-[Challenges towards the Next Frontier in Privacy](https://arxiv.org/abs/2304.06929)<br>
-Rachel Cummings, Damien Desfontaines, David Evans, Roxana Geambasu, Matthew Jagielski, Yangsibo Huang, Peter Kairouz, Gautam Kamath, Sewoong Oh, Olga Ohrimenko, Nicolas Papernot, Ryan Rogers, Milan Shen, Shuang Song, Weijie Su, Andreas Terzis, Abhradeep Thakurta, Sergei Vassilvitskii, Yu-Xiang Wang, Li Xiong, Sergey Yekhanin, **Da Yu**, Huanyu Zhang, Wanrong Zhang<br>
-Harvard Data Science Review, 2024
-
-[Training Private and Efficient Language Models with Synthetic Data from LLMs](https://openreview.net/forum?id=FKwtKzglFb), [[code]](https://github.com/dayu11/dp_finetuning_of_llms)<br>
-**Da Yu**, Arturs Backurs, Sivakanth Gopi, Huseyin Inan, Janardhan Kulkarni, Zinan Lin, Chulin Xie, Huishuai Zhang, Wanrong Zhang<br>
-NeurIPS 2023 SoLaR Workshop
 
 [Individual Privacy Accounting for Differentially Private Stochastic Gradient Descent](https://arxiv.org/abs/2206.02617), [[code]](https://github.com/dayu11/individual_privacy_of_DPSGD)<br>
 **Da Yu**, Gautam Kamath, Janardhan Kulkarni, Tie-Yan Liu, Jian Yin, Huishuai Zhang<br>
@@ -68,15 +60,6 @@ KDD, Research Track, 2022
 [How Does Data Augmentation Affect Privacy in Machine Learning?](https://arxiv.org/abs/2007.10567), [[code]](https://github.com/dayu11/MI_with_DA)<br>
 **Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 AAAI, 2021
-
-[Stabilize Deep ResNet with A Sharp Scaling Factor $\tau$](https://arxiv.org/abs/1903.07120), [[code]](https://github.com/dayu11/tau-ResNet)<br>
-Huishuai Zhang, **Da Yu**, Mingyang Yi, Wei Chen, Tie-Yan Liu<br> 
-Machine Learning, 2022
-
-
-[Gradient Perturbation is Underrated for Differentially Private Convex Optimization](https://arxiv.org/abs/1911.11363)<br>
-**Da Yu**\*, Huishuai Zhang\*, Wei Chen, Jian Yin, Tie-Yan Liu<br>
-IJCAI, 2020
 
 Manuscripts
 ======
