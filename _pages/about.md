@@ -25,11 +25,11 @@ Publications
 **Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
 TMLR, 2024
 
-[Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659)<br>
+[Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659), [[code]](https://github.com/google-research/google-research/tree/master/dp_instructions)<br>
 **Da Yu**, Peter Kairouz, Sewoong Oh, Zheng Xu<br>
 ICML, 2024
 
-[Differentially Private Synthetic Data via Foundation Model APIs 2: Text](https://arxiv.org/abs/2403.01749)<br>
+[Differentially Private Synthetic Data via Foundation Model APIs 2: Text](https://arxiv.org/abs/2403.01749), [[code]](https://github.com/AI-secure/aug-pe)<br>
 Chulin Xie, Zinan Lin, Arturs Backurs, Sivakanth Gopi, **Da Yu**, Huseyin A Inan, Harsha Nori, Haotian Jiang, Huishuai Zhang, Yin Tat Lee, Bo Li, and Sergey Yekhanin<br>
 ICML, 2024 (**Spotlight**)
 
@@ -37,7 +37,7 @@ ICML, 2024 (**Spotlight**)
 Rachel Cummings, Damien Desfontaines, David Evans, Roxana Geambasu, Matthew Jagielski, Yangsibo Huang, Peter Kairouz, Gautam Kamath, Sewoong Oh, Olga Ohrimenko, Nicolas Papernot, Ryan Rogers, Milan Shen, Shuang Song, Weijie Su, Andreas Terzis, Abhradeep Thakurta, Sergei Vassilvitskii, Yu-Xiang Wang, Li Xiong, Sergey Yekhanin, **Da Yu**, Huanyu Zhang, Wanrong Zhang<br>
 Harvard Data Science Review, 2024
 
-[Training Private and Efficient Language Models with Synthetic Data from LLMs](https://openreview.net/forum?id=FKwtKzglFb)<br>
+[Training Private and Efficient Language Models with Synthetic Data from LLMs](https://openreview.net/forum?id=FKwtKzglFb), [[code]](https://github.com/dayu11/dp_finetuning_of_llms)<br>
 **Da Yu**, Arturs Backurs, Sivakanth Gopi, Huseyin Inan, Janardhan Kulkarni, Zinan Lin, Chulin Xie, Huishuai Zhang, Wanrong Zhang<br>
 NeurIPS 2023 SoLaR Workshop
 
