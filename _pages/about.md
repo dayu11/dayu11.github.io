@@ -10,8 +10,7 @@ redirect_from:
 
 My research interests encompass 1) Privacy-preserving machine learning, particularly deep learning with differential privacy, and 2) Memorization mechanisms within large-scale models. 
 
-I am a member of the joint Ph.D. program between [Sun Yat-sen University](https://en.wikipedia.org/wiki/Sun_Yat-sen_University) and [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). My advisors are Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3) and Prof. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/). I received my B.S. degree in Computer Science from Sun Yat-sen University in 2019. My research is supported by [Microsoft Research Fellowship](https://www.microsoft.com/en-us/research/academic-program/fellowships-microsoft-research-asia/). 
-
+I will join Google Research as a Research Scientist this summer. I earned my Ph.D. from Sun Yat-sen University in 2024, where I was fortunate to be supervised by Prof. [Tie-Yan Liu](https://www.microsoft.com/en-us/research/people/tyliu/) and Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3). I received my Bachelor's degree in Computer Science from Sun Yat-sen University in 2019.
 
 
 
