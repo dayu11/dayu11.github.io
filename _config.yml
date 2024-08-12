@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Da Yu"
-description              : &description "Incoming Research Scientist at Google"
+description              : &description "Research Scientist at Google"
 url                      : https://dayu11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dayu11.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Da Yu"
   avatar           : "headshot.jpg"
-  bio              : "Incoming Research Scientist at Google"
+  bio              : "Research Scientist at Google"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=FcRGdiwAAAAJ"
-  email            : "yuda3@mail2.sysu.edu.cn"
+  email            : "yuda3.edu@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
