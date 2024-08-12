@@ -24,7 +24,7 @@ Selected Publications
 **Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
 TMLR, 2024
 
-[Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659), [[code]](https://github.com/google-research/google-research/tree/master/dp_instructions)<br>
+[Privacy-Preserving Instructions for Aligning Large Language Models](https://arxiv.org/abs/2402.13659), [[code]](https://github.com/google-research/google-research/tree/master/dp_instructions), [[poster]](https://drive.google.com/file/d/1DMbadZWxfTWDcqkO7n6vultaRPUA5tEC/view?usp=sharing)<br>
 **Da Yu**, Peter Kairouz, Sewoong Oh, Zheng Xu<br>
 ICML, 2024
 
