@@ -12,8 +12,11 @@ My research interests encompass 1) Privacy-preserving machine learning, particul
 
 I am a Research Scientist at Google Research. I earned my Ph.D. from Sun Yat-sen University in 2024, where I had the privilege of being supervised by Prof. [Tie-Yan Liu](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=en) and Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3). During my Ph.D., I was a member of the [Joint PhD program between Microsoft Research Asia](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) and Sun Yat-sen University. I received a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/eleven-phd-students-are-awarded-the-2021-microsoft-research-asia-fellowship-award/) in 2021. I earned my Bachelor's degree in Computer Science from Sun Yat-sen University in 2019.
 
+News
+======
 
-
+* [05/19/2025] We’ve just uploaded a new version of our paper, [Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637), on arXiv.
+* [05/01/2025] I will be serving as an Area Chair for the [Position Papers Track of NeurIPS 2025](https://neurips.cc/Conferences/2025/CallForPositionPapers).
 
 Selected Publications
 ======
@@ -60,12 +63,8 @@ KDD, Research Track, 2022
 **Da Yu**, Huishuai Zhang, Wei Chen, Jian Yin, Tie-Yan Liu<br>
 AAAI, 2021
 
-Manuscripts
-======
-
-
 
 Academic Service
 ======
-I am a reviewer for ICML 2022-2024, NeurIPS 2022-2024, and ICLR 2023-2024. I'm awarded as a top reviewer for several times.
+I am a reviewer for ICML 2022-2025, NeurIPS 2022-2024, and ICLR 2023-2025. I'm awarded as a top reviewer for several times.
 
