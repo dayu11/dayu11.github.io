@@ -16,7 +16,6 @@ News
 ======
 
 * [05/19/2025] We’ve just uploaded a new version of our paper, [Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637), on arXiv.
-* [05/01/2025] I will be serving as an Area Chair for the [Position Papers Track of NeurIPS 2025](https://neurips.cc/Conferences/2025/CallForPositionPapers).
 
 Selected Publications
 ======
