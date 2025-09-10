@@ -15,6 +15,8 @@ I am a Research Scientist at Google Research. I earned my Ph.D. from Sun Yat-sen
 News
 ======
 
+* [08/21/2025] I will be serving as an Area Chair for ICLR 2026.
+
 * [05/19/2025] We’ve just uploaded a new version of our paper, [Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637), on arXiv.
 
 Selected Publications
