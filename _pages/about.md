@@ -17,12 +17,16 @@ News
 
 * [08/21/2025] I will be serving as an Area Chair for ICLR 2026.
 
+* [07/07/2025] Our work [URANIA: Differentially Private Insights into AI Use](https://arxiv.org/abs/2506.04681) has been accepted to COLM 2025!
+
+* [06/14/2025] Check out our new work [Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries](https://arxiv.org/abs/2506.07555) on arXiv.
+
 * [05/19/2025] We’ve just uploaded a new version of our paper, [Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637), on arXiv.
 
-Selected Publications
+Recent Publications
 ======
 
-*\* denotes equal contribution.*
+*Please see Google Scholar for an updated list.*
 
 [Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865), [[code]](https://github.com/dayu11/selective_pretraining_for_private_finetuning)<br>
 **Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
