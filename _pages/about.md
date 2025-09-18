@@ -34,7 +34,7 @@ Recent Publications
 Gemini team<br>
 Technical Report
 
-[Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637)<br>
+[Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637), [[community implementation]](https://github.com/llmsresearch/scone)<br>
 **Da Yu**, Edith Cohen, Badih Ghazi, Yangsibo Huang, Pritish Kamath, Ravi Kumar, Daogao Liu, Chiyuan Zhang<br>
 NeurIPS 2025
 
