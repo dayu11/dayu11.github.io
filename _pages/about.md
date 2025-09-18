@@ -28,7 +28,23 @@ News
 Recent Publications
 ======
 
-**Please see [Google Scholar](https://scholar.google.com/citations?user=FcRGdiwAAAAJ&hl=en) for an updated list.**
+**Please see [Google Scholar](https://scholar.google.com/citations?user=FcRGdiwAAAAJ&hl=en) for an up-to-date list.**
+
+[Gemini 2.5: Pushing the Frontier With Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261)<br>
+Gemini team<br>
+Technical Report
+
+[Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637)<br>
+**Da Yu**, Edith Cohen, Badih Ghazi, Yangsibo Huang, Pritish Kamath, Ravi Kumar, Daogao Liu, Chiyuan Zhang<br>
+NeurIPS 2025
+
+[Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries](https://arxiv.org/abs/2506.07555)<br>
+Haoxiang Wang, Zinan Lin, **Da Yu**, Huishuai Zhang<br>
+NeurIPS 2025
+
+[URANIA: Differentially Private Insights into AI Use](https://arxiv.org/abs/2506.04681)<br>
+Daogao Liu, Edith Cohen, Badih Ghazi, Peter Kairouz, Pritish Kamath, Alexander Knop, Ravi Kumar, Pasin Manurangsi, Adam Sealfon, **Da Yu**, Chiyuan Zhang<br>
+COLM 2025
 
 [Selective Pre-training for Private Fine-tuning](https://arxiv.org/abs/2305.13865), [[code]](https://github.com/dayu11/selective_pretraining_for_private_finetuning)<br>
 **Da Yu**, Sivakanth Gopi, Janardhan  Kulkarni, Zinan Lin, Saurabh Naik, Tomasz Lukasz Religa, Jian Yin, Huishuai Zhang<br>
