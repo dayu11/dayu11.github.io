@@ -10,10 +10,12 @@ redirect_from:
 
 My recent research interests are: 1) Enabling Gemini to power breakthrough applications through tool-use and RL, 2) Improving methods for privacy-preserving machine learning.
 
-I am a Research Scientist at Google Research. I earned my Ph.D. from Sun Yat-sen University in 2024, where I had the privilege of being supervised by Prof. [Tie-Yan Liu](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=en) and Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3). During my doctoral studies, I participated in the [Joint Ph.D. Program between Microsoft Research Asia](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) and Sun Yat-sen University, where I was truly fortunate to work closely with [Prof. Huishuai Zhang](https://huishuai-git.github.io/). I received a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/eleven-phd-students-are-awarded-the-2021-microsoft-research-asia-fellowship-award/) in 2021. I earned my Bachelor's degree in Computer Science from Sun Yat-sen University in 2019.
+I am a Senior Research Scientist at Google Research. I earned my Ph.D. from Sun Yat-sen University in 2024, where I had the privilege of being supervised by Prof. [Tie-Yan Liu](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=en) and Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3). During my doctoral studies, I participated in the [Joint Ph.D. Program between Microsoft Research Asia](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) and Sun Yat-sen University, where I was truly fortunate to work closely with [Prof. Huishuai Zhang](https://huishuai-git.github.io/). I received a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/eleven-phd-students-are-awarded-the-2021-microsoft-research-asia-fellowship-award/) in 2021. I earned my Bachelor's degree in Computer Science from Sun Yat-sen University in 2019.
 
 News
 ======
+
+* [10/22/2025] We released the Gemini 2.5 Computer Use Model on Google [AIS](https://ai.google.dev/gemini-api/docs/computer-use) and [Vertex](https://cloud.google.com/vertex-ai/generative-ai/docs/computer-use) [[blog](https://blog.google/technology/google-deepmind/gemini-computer-use-model), [additional info](https://storage.googleapis.com/deepmind-media/gemini/computer_use_eval_additional_info.pdf)].
 
 * [09/18/2025] Our work [Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637) and [Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries](https://arxiv.org/abs/2506.07555) have been accepted to NeurIPS 2025!
 
