@@ -29,14 +29,14 @@ News
 Experience
 ======
 
-* Google DeepMind | Senior Research Scientist (*Current*)
-* Google Research | (Senior) Research Scientist (*August 2024 – December 2025*)
-* Microsoft Research Asia | Joint Ph.D. Student / Research Intern (*2019 – 2024*)
+* Google DeepMind - Senior Research Scientist (*Current*)
+* Google Research - (Senior) Research Scientist (*August 2024 – December 2025*)
+* Microsoft Research Asia - Joint Ph.D. Student / Research Intern (*2019 – 2024*)
     * Mentor: [Prof. Huishuai Zhang](https://huishuai-git.github.io/)
     * Joint Ph.D. Program between MSRA and Sun Yat-sen University.
     * Recipient of the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/eleven-phd-students-are-awarded-the-2021-microsoft-research-asia-fellowship-award/) (2021).
 
-* Sun Yat-sen University | Ph.D. in Computer Science (*2019 – 2024*)
+* Sun Yat-sen University - Ph.D. in Computer Science (*2019 – 2024*)
     * Advisors: Prof. [Tie-Yan Liu](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=en) and Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3)
 
 Recent Publications
