@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My recent research interests are: 1) Enabling Gemini to power breakthrough applications through tool-use and RL, 2) Improving methods for privacy-preserving machine learning.
-
-I am a Senior Research Scientist at Google DeepMind. I earned my Ph.D. from Sun Yat-sen University in 2024, where I had the privilege of being supervised by Prof. [Tie-Yan Liu](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=en) and Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3). During my doctoral studies, I participated in the [Joint Ph.D. Program between Microsoft Research Asia](https://www.msra.cn/zh-cn/connections/academic-programs/joint-phd) and Sun Yat-sen University, where I was truly fortunate to work closely with [Prof. Huishuai Zhang](https://huishuai-git.github.io/). I received a [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/eleven-phd-students-are-awarded-the-2021-microsoft-research-asia-fellowship-award/) in 2021. I earned my Bachelor's degree in Computer Science from Sun Yat-sen University in 2019.
+I am a Senior Research Scientist at Google DeepMind. My recent research interests are: 1) Enabling Gemini to power breakthrough applications through tool-use and RL, 2) Improving methods for privacy-preserving machine learning.
 
 News
 ======
@@ -26,6 +24,20 @@ News
 * [06/14/2025] Check out our new work [Synthesize Privacy-Preserving High-Resolution Images via Private Textual Intermediaries](https://arxiv.org/abs/2506.07555) on arXiv.
 
 * [05/19/2025] We’ve just uploaded a new version of our paper, [Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637), on arXiv.
+
+
+Experience
+======
+
+* Google DeepMind | Senior Research Scientist (*Current*)
+* Google Research | (Senior) Research Scientist (*August 2024 – December 2025*)
+* Microsoft Research Asia | Joint Ph.D. Student / Research Intern (*2019 – 2024*)
+    * Mentor: [Prof. Huishuai Zhang](https://huishuai-git.github.io/)
+    * Joint Ph.D. Program between MSRA and Sun Yat-sen University.
+    * Recipient of the [Microsoft Research PhD Fellowship](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/articles/eleven-phd-students-are-awarded-the-2021-microsoft-research-asia-fellowship-award/) (2021).
+
+* Sun Yat-sen University | Ph.D. in Computer Science (*2019 – 2024*)
+    * Advisors: Prof. [Tie-Yan Liu](https://scholar.google.com/citations?user=Nh832fgAAAAJ&hl=en) and Prof. [Jian Yin](https://openreview.net/profile?id=~Jian_Yin3)
 
 Recent Publications
 ======
