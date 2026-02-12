@@ -13,7 +13,7 @@ I am a Senior Research Scientist at Google DeepMind. My recent research interest
 News
 ======
 
-* [12/17/2025] We released the [Gemini 3 Flash Preview](https://blog.google/products-and-platforms/products/gemini/gemini-3-flash/)! I'm happy to have contributed to some of the agentic training data for the model.
+* [12/17/2025] We released the [Gemini 3 Flash Preview](https://blog.google/products-and-platforms/products/gemini/gemini-3-flash/)! I'm happy to have contributed to some of the agentic training for the model.
 
 * [10/22/2025] We released the Gemini 2.5 Computer Use Model on Google [AIS](https://ai.google.dev/gemini-api/docs/computer-use) and [Vertex](https://cloud.google.com/vertex-ai/generative-ai/docs/computer-use) [[blog](https://blog.google/technology/google-deepmind/gemini-computer-use-model), [additional info](https://storage.googleapis.com/deepmind-media/gemini/computer_use_eval_additional_info.pdf)].
 
