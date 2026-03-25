@@ -13,9 +13,7 @@ I am a Senior Research Scientist at Google DeepMind. My recent research interest
 News
 ======
 
-* [02/19/2026] We released [Gemini 3.1 Pro Preview](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)! Happy to have contributed to the agentic training data for this model.
-
-* [12/17/2025] We released [Gemini 3 Flash Preview](https://blog.google/products-and-platforms/products/gemini/gemini-3-flash/)! I'm happy to have contributed to the agentic training for this version.
+* [02/19/2026] We released [Gemini 3.1 Pro Preview](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) and [Gemini 3 Flash Preview](https://blog.google/products-and-platforms/products/gemini/gemini-3-flash/)! Happy to have contributed to some of the agentic training data.
 
 * [10/22/2025] We released the Gemini 2.5 Computer Use Model on Google [AIS](https://ai.google.dev/gemini-api/docs/computer-use) and [Vertex](https://cloud.google.com/vertex-ai/generative-ai/docs/computer-use) [[blog](https://blog.google/technology/google-deepmind/gemini-computer-use-model), [additional info](https://storage.googleapis.com/deepmind-media/gemini/computer_use_eval_additional_info.pdf)].
 
@@ -30,11 +28,9 @@ News
 * [05/19/2025] We’ve just uploaded a new version of our paper, [Scaling Embedding Layers in Language Models](https://arxiv.org/abs/2502.01637), on arXiv.
 
 
-Experience
+Education
 ======
 
-* Google DeepMind - Senior Research Scientist (*Current*)
-* Google Research - (Senior) Research Scientist (*August 2024 – December 2025*)
 * Microsoft Research Asia - Joint Ph.D. Student / Research Intern (*2019 – 2024*)
     * Mentor: [Prof. Huishuai Zhang](https://huishuai-git.github.io/)
     * Joint Ph.D. Program between MSRA and Sun Yat-sen University.
